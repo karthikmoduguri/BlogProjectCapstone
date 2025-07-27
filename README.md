@@ -1,5 +1,11 @@
 # React Appwrite Vite Project
 
+> **Credits:**  
+> Special thanks to [Hitesh Choudhary] for his YouTube channel for guidance and tutorials that helped in building this capstone project.
+
+---
+
+
 This project is a modern web application built using **React** and **Vite**, integrated with **Appwrite** for backend services. It demonstrates a scalable structure for building CRUD-based apps with authentication, rich text editing, file uploads, and more.
 
 ---
